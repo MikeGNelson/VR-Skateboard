@@ -1,0 +1,2 @@
+Index, Movement Mode, Trial Type, Time, X, Y, Z, Flags Collected, isFiring, Fire Count, RMSE Distance, Sway V X, Sway V Y, Sway V Z, Sway V Magnitude
+0, torque, FreeMode, 32.48, 0, 0.15, 0, 0, True, 0, 0.15,0,0,0,0
